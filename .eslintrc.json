@@ -13,7 +13,6 @@
     "sourceType": "module"
   },
   "extends": [
-    "prettier",
     "plugin:react/jsx-runtime",
     "plugin:jsx-a11y/recommended",
     "plugin:react-hooks/recommended"
