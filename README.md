@@ -1,7 +1,5 @@
 # REACT-TODO-APP
 
-## Live preview [here](https://anny85-code.github.io/mathmagician/dist/).
-
 Quick review of page amd code.
 
 ## Screenshots
@@ -27,8 +25,8 @@ Project is created with:
 To run this project, install it locally using:
 
 - cd Desktop
-- git clone https://github.com/Anny85-code/React-todo-app.git
-- cd react-todo-app
+- git clone https://github.com/Anny85-code/React-todo-update.git
+- cd react-todo-update
 - npm install
 - npm start
 
@@ -44,7 +42,7 @@ To run this project, install it locally using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Anny85-code/React-todo-app.git/issues/36).
+Feel free to check the [issues page](https://github.com/Anny85-code/React-todo-update.git/issues/36).
 
 ## Show your support
 
