@@ -1,5 +1,7 @@
 # REACT-TODO-APP
 
+## Live preview [here](https://anny85-code.github.io/React-todo-update/).
+
 Quick review of page amd code.
 
 ## Screenshots
