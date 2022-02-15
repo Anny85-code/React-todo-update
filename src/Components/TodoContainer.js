@@ -7,6 +7,7 @@ import { Route, Switch } from 'react-router-dom';
 import About from '../Pages/About';
 import NotMatch from '../Pages/NotMatch';
 import Navbar from './Navbar';
+import SinglePage from '../Pages/SinglePage';
 
 const TodoContainer = () => {
   const [todos, setTodos] = useState(getInitialTodos());
@@ -89,6 +90,9 @@ const TodoContainer = () => {
         </Route>
         <Route path='*'>
           <NotMatch />
+        </Route>
+        <Route path={`${/about/}/:slug`}>
+          <SinglePage />
         </Route>
       </Switch>
     </>
