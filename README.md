@@ -6,7 +6,7 @@ Quick review of page amd code.
 
 ## Screenshots
 
-![react-screenshot](https://user-images.githubusercontent.com/87186552/154020757-1e622c5c-1107-44c9-8009-9d09a00064e2.png)
+![react-update](https://user-images.githubusercontent.com/87186552/154137773-306afbc9-548b-4168-83b7-8eeda63f0de3.png)
 
 ## General info
 
